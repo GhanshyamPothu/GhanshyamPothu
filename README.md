@@ -4,7 +4,6 @@
 📊 Power BI • SQL • Excel • Data Analysis • Data Storytelling  
 🎯 Open to Data Analyst / Business Analyst opportunities
 
-I have a strong background in **accounting and business operations** and I am transitioning into **data analytics and business analytics**. I enjoy transforming raw data into meaningful insights that support data-driven decision-making.
 I have a strong background in **accounting and business operations** and am transitioning into **data analytics and business analytics**. I specialize in transforming raw data into meaningful insights that support data-driven decision-making.
 
 
